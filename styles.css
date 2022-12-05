@@ -83,7 +83,10 @@ footer {
 padding: 1rem 0.5rem;
 }
 
-
+#hero {
+    background-image: url("./images/pic7.jpg");
+    height: 50vh;
+  }
 
 
 
