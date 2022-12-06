@@ -38,7 +38,7 @@ justify-content: center;
 
 nav ul {
 display: flex;
-gap: 7rem;
+gap: 3rem;
 }
 
 nav a {
