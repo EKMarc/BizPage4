@@ -92,10 +92,6 @@ padding: 0 0.8em
     height: 20vh;
 }
 
-.bg-translucent-dark {
-    background-color: rgba(216, 232, 215, 0.281);
-  }
-
 footer {
 padding: 1rem 0.5rem;
 }
