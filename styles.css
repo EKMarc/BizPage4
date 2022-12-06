@@ -79,6 +79,17 @@ transition: opacity 0.5s ease-in-out;
 padding: 0 0.8em
 }
 
+#hero {
+    background-size: cover;
+    background-position: center;
+  }
+
+
+#hero {
+    background-image: url("./images/pic7.jpg");
+    height: 50vh;
+}
+
 footer {
 padding: 1rem 0.5rem;
 }
