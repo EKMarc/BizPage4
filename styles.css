@@ -48,7 +48,8 @@ text-transform: uppercase;
 font-size: 1em;
 font-weight:300;
 background-color:rgb(13, 19, 184);
-padding: 1rem;
+padding: 0.5rem;
+border-radius: 0.5rem;
 }
 
 nav a:hover {
@@ -82,7 +83,7 @@ padding: 0 0.8em
 #hero {
     background-size: cover;
     background-position: center;
-  }
+}
 
 
 #hero {
